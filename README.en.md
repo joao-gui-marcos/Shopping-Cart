@@ -9,7 +9,7 @@
 
 ## 👨‍💻 What was developed:
 
--   A developed**shopping cart**fully dynamic, consuming data directly from the**API**Mercado Libre to search for products for sale. 🏷
+-   A fully dynamic shopping cart was developed, consuming data directly from the Mercado Livre API to search for products for sale. 🏷
 -   TDD (Test Driven Development) was also used, which is a practice widely used in the job market to ensure that the code is implemented correctly. That is, first the tests for a function are written and then the logic of the function is implemented.
 
 :bulb:**See a sample below:**
