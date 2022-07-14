@@ -8,7 +8,7 @@
 
 ## 👨‍💻 O que foi desenvolvido:
 
-  - Foi desenvolvido um **carrinho de compras** totalmente dinâmico, consumindo dados diretamente da **API** do Mercado Livre para buscar produtos à venda. 🏷
+  - Foi desenvolvido um carrinho de compras totalmente dinâmico, consumindo dados diretamente da API do Mercado Livre para buscar produtos à venda. 🏷
   - Foi utilizado também o TDD (Test Driven Development), que é uma prática muito utilizada no mercado de trabalho para garantir que o código seja implementado da maneira correta. Ou seja, primeiro são escritos os testes para uma função e depois é implementado a lógica da função.
 
 :bulb: **Veja uma amostra a seguir:**
